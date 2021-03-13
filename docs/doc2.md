@@ -104,15 +104,15 @@ linking together of multiple tertiary structure polypeptide chains
   
 ## Enzymes  
 - Lower the activation energy of the reaction it catalyses  
-- Lock and Key model of enzyme action  
-	o Substrate fits perfectly in the enzyme  
-	o No explanation as to how the enzyme catalyses the reaction  
+### Lock and Key model of enzyme action  
+- Substrate fits perfectly in the enzyme  
+- No explanation as to how the enzyme catalyses the reaction  
 <img src="https://user-images.githubusercontent.com/74820599/111035484-b7a12080-8412-11eb-8149-d32e3e2de207.png" alt="lock and key diagram" width="25%" /> [^2]
 
-- Induced Fit model of enzyme action  
-	o Enzyme active site changes shape slightly to allow the substrate to bind to it  
-	o Active site puts stresses on the substrate, causing bonds to brake  
-	o Reaction is catalysed, causing the product(s) to be released  
+### Induced Fit model of enzyme action  
+- Enzyme active site changes shape slightly to allow the substrate to bind to it  
+- Active site puts stresses on the substrate, causing bonds to brake  
+- Reaction is catalysed, causing the product(s) to be released  
 - Enzymes are only able to have 1 substrate fit it – amylase only catalyses starch (hydrolysis)  
 - Enzyme concentration – a higher concentration will cause the substrate to be broken down faster. The rate of reaction will plateau as the substrate concentration decreases, as collisions are less likely to occur  
 ![Induced fit model of enzyme action](https://user-images.githubusercontent.com/74820599/111035609-254d4c80-8413-11eb-836f-a922b27679ff.png)[^3]  
@@ -130,14 +130,14 @@ Above optimum temp – reaction stops – enzymes denature
 - RNA – ribonucleic acid  
 - Genetic material for living organisms  
 - Adenine (purine), Thymine / Uracil (pyramidal), Guanine (purine), Cytosine (pyramidal)  
-#### Semi-Conservative Replication  
+### Semi-Conservative Replication  
 
 - DNA unzips: DNA Helicase  
 - Base pairs move in between the unzipped strands  
 - DNA Polymerase used to bind the new bases to the old strands  
 - Forms 2 DNA strands, each with 1 old strand and 1 new strand  
 
-#### Proof for semi-conservative replication  
+### Proof for semi-conservative replication  
 - DNA replicated until all Nitrogen is 15N – this is heavier, causing the strand to be lower in solution  
 - DNA then replicated 1 generation with 14N – this creates a hybrid DNA, with 50% 15N and 50% 14N  
 - DNA replicated 1 further generation in 14N solution – creating DNA with 25% 15N and 75% 14N  
