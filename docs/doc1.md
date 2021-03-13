@@ -8,10 +8,10 @@ This is based off the AQA A Level Biology Specification, however can easily be a
 
 ## Units
 
-Unit 1 - Biological Molecules
-Unit 2 - Cells
-Unit 3 - Organisms Exchange Substances with their Environment
-Unit 4 - Genetic Information, Variation, and Relationships between Organisms
+Unit 1 - Biological Molecules  
+Unit 2 - Cells  
+Unit 3 - Organisms Exchange Substances with their Environment  
+Unit 4 - Genetic Information, Variation, and Relationships between Organisms  
 
 ---
 
