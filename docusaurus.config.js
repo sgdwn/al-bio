@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'A Level Biology: iodli',
+  tagline: 'A Level Biology',
+  url: 'https://bio.iod.li',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'iodli', // Usually your GitHub org/user name.
+  projectName: 'A Level Biology', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'A Level Biology: iodli',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'iodli',
         src: 'img/logo.svg',
       },
       links: [
@@ -38,38 +38,8 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) == Built with Docusaurus.`,
     },
   },
   presets: [
