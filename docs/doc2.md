@@ -130,19 +130,19 @@ Above optimum temp – reaction stops – enzymes denature
 - RNA – ribonucleic acid  
 - Genetic material for living organisms  
 - Adenine (purine), Thymine / Uracil (pyramidal), Guanine (purine), Cytosine (pyramidal)  
-#### - Semi-Conservative Replication  
+#### Semi-Conservative Replication  
 
-o DNA unzips: DNA Helicase  
-o Base pairs move in between the unzipped strands  
-o DNA Polymerase used to bind the new bases to the old strands  
-o Forms 2 DNA strands, each with 1 old strand and 1 new strand  
+- DNA unzips: DNA Helicase  
+- Base pairs move in between the unzipped strands  
+- DNA Polymerase used to bind the new bases to the old strands  
+- Forms 2 DNA strands, each with 1 old strand and 1 new strand  
 
-#### - Proof for semi-conservative replication  
-o DNA replicated until all Nitrogen is 15N – this is heavier, causing the strand to be lower in solution  
-o DNA then replicated 1 generation with 14N – this creates a hybrid DNA, with 50% 15N and 50% 14N  
-o DNA replicated 1 further generation in 14N solution – creating DNA with 25% 15N and 75% 14N  
-o This is repeated, eventually forming DNA only containing 14N  
-o The solution can be centrifuged, DNA containing different Nitrogen isotopes to be identified  
+#### Proof for semi-conservative replication  
+- DNA replicated until all Nitrogen is 15N – this is heavier, causing the strand to be lower in solution  
+- DNA then replicated 1 generation with 14N – this creates a hybrid DNA, with 50% 15N and 50% 14N  
+- DNA replicated 1 further generation in 14N solution – creating DNA with 25% 15N and 75% 14N  
+- This is repeated, eventually forming DNA only containing 14N  
+- The solution can be centrifuged, DNA containing different Nitrogen isotopes to be identified  
 
 <img src="https://user-images.githubusercontent.com/74820599/111035807-03a09500-8414-11eb-8d8c-3a82a53fad8b.png" alt="lock and key diagram" width="25%" /> [^4]
 
