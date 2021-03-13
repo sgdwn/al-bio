@@ -206,6 +206,7 @@ enzyme catalysing hydrolysis of ATP (breaks down ATP into ADP)
 - Observe colour change:  
 	o Negative – blue  
 	o Positive – Green (lowest concentration) → Brick red (highest concentration)  
+![image](https://user-images.githubusercontent.com/74820599/111036521-86771f00-8417-11eb-9382-ab6cc16ec824.png)[^6]
 
 ## Benedict’s Test for Non-Reducing Sugars  
 - Carry out Benedict’s test as above  
@@ -221,13 +222,14 @@ enzyme catalysing hydrolysis of ATP (breaks down ATP into ADP)
 	o Blue / black – starch is present  
 
 ## Emulsion Test for Lipids  
-- Add 2cm^3 of homogenised food sample to 2cm^3 of ethanol  
+- Add 2cm3 of homogenised food sample to 2cm3 of ethanol  
 - Shake, then add some water  
 - Observe whether an emulsion forms (emulsion present = lipids present)  
 
 
-[^1]: This work has been released into the public domain by its author, LadyofHats (Wikimedia Commons). This applies worldwide.
-[^2]: By domdomegg - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=46474063
-[^3]: By TimVickers, vectorized by Fvasconcellos - Provided by TimVickers, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1267900
-[^4]: By Genomics Education Programme - Semi conservative replication of DNA, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50542923
-[^5]: By Jynto - Own work  This image was created with Discovery Studio Visualizer., CC0, https://commons.wikimedia.org/w/index.php?curid=16282717
+[^1]: This work has been released into the public domain by its author, LadyofHats (Wikimedia Commons). This applies worldwide.  
+[^2]: By domdomegg - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=46474063  
+[^3]: By TimVickers, vectorized by Fvasconcellos - Provided by TimVickers, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1267900  
+[^4]: By Genomics Education Programme - Semi conservative replication of DNA, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50542923  
+[^5]: By Jynto - Own work  This image was created with Discovery Studio Visualizer., CC0, https://commons.wikimedia.org/w/index.php?curid=16282717  
+[^6]: By Thebiologyprimer - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32341865  
