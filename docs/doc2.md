@@ -172,6 +172,58 @@ enzyme catalysing hydrolysis of ATP (breaks down ATP into ADP)
 - Activation of Molecules – inorganic phosphate released in hydrolysis of ATP can phosphorylate other molecules  
 ![image](https://user-images.githubusercontent.com/74820599/111036270-58450f80-8416-11eb-844d-170dd213e625.png)[^5]
 
+## Water  
+- Essential for all living organisms  
+- Polar Molecule  
+	o Hydrogen bonds between water molecules require lots of energy to break  
+	o Causes water to have a high surface tension  
+- Solvent  
+	o As water is polar, other polar molecules are able to dissolve in it  
+	o Ionic compounds are surrounded by water molecules when dissolved  
+	o Allows gases to be dissolved – CO2, O2, NH3…  
+- High Specific Heat Capacity  
+	o A lot of energy is required to increase the temperature by 1° - this is due to the strength of the hydrogen bonds  
+	o This means that water acts as a buffer, reducing temperature fluctuations  
+- High Latent Heat of Vaporisation  
+	o A lot of energy is required to evaporate water (into steam)  
+	o Ideal for cooling an organism – sweating (animals) or transpiring (plants)  
+- Cohesion between Molecules  
+	o High surface tension means that column of water is able to be pulled up a vessel (such as a xylem)  
+- Metabolite  
+	o Used in condensation / hydrolysis reactions to break / form bonds  
+
+## Inorganic Ions  
+- Occur in solution in the cytoplasm / bodily fluids  
+- Some are in high concentrations, others in low concentrations  
+- Each ion has a specific role  
+- Iron ions Haemoglobin  
+- Sodium ions Co-transport of Glucose and Amino Acids  
+- Phosphate ions Part of DNA and ATP  
+
+## Benedict’s Test for Reducing Sugars  
+- Add 2cm3 of Benedict’s reagent to 5cm3 of homogenised food sample  
+- Heat in gently boiling water bath for 5 mins  
+- Observe colour change:  
+	o Negative – blue  
+	o Positive – Green (lowest concentration) → Brick red (highest concentration)  
+
+## Benedict’s Test for Non-Reducing Sugars  
+- Carry out Benedict’s test as above  
+- If result is negative:  
+	o Boil homogenised food sample in acid for 5 mins  
+	o Neutralise with sodium hydrogen carbonate powder  
+	o Carry out Benedict’s test again, as above  
+
+## Iodine Test for Starch  
+- Add a few drops of iodine in potassium iodide solution to the food sample  
+- Observe colour change  
+	o Yellow / orange (no change) – no starch is present  
+	o Blue / black – starch is present  
+
+## Emulsion Test for Lipids  
+- Add 2cm^3 of homogenised food sample to 2cm^3 of ethanol  
+- Shake, then add some water  
+- Observe whether an emulsion forms (emulsion present = lipids present)  
 
 
 [^1]: This work has been released into the public domain by its author, LadyofHats (Wikimedia Commons). This applies worldwide.
