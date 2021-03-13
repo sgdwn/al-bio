@@ -104,12 +104,12 @@ linking together of multiple tertiary structure polypeptide chains
   
 ## Enzymes  
 - Lower the activation energy of the reaction it catalyses  
-### Lock and Key model of enzyme action  
+### Lock and Key model 
 - Substrate fits perfectly in the enzyme  
 - No explanation as to how the enzyme catalyses the reaction  
-<img src="https://user-images.githubusercontent.com/74820599/111035484-b7a12080-8412-11eb-8149-d32e3e2de207.png" alt="lock and key diagram" width="25%" /> [^2]
+<img src="https://user-images.githubusercontent.com/74820599/111035484-b7a12080-8412-11eb-8149-d32e3e2de207.png" alt="lock and key diagram" width="25%" />[^2]
 
-### Induced Fit model of enzyme action  
+### Induced Fit model
 - Enzyme active site changes shape slightly to allow the substrate to bind to it  
 - Active site puts stresses on the substrate, causing bonds to brake  
 - Reaction is catalysed, causing the product(s) to be released  
@@ -117,8 +117,12 @@ linking together of multiple tertiary structure polypeptide chains
 - Enzyme concentration – a higher concentration will cause the substrate to be broken down faster. The rate of reaction will plateau as the substrate concentration decreases, as collisions are less likely to occur  
 ![Induced fit model of enzyme action](https://user-images.githubusercontent.com/74820599/111035609-254d4c80-8413-11eb-836f-a922b27679ff.png)[^3]  
 
-- Substrate concentration – higher concentration of substrate means that the enzymes are more likely to collide with substrate. Increase rate of reaction, to a point. Once all of the enzyme has substrate in active site, reaction cannot continue further  
-- Inhibitor concentration – higher concentration of competitive inhibitors will cause reaction to slow, as more competitive inhibitor blocks active sites Non-competitive inhibitors will have an impact, however it is not based on concentration as they do not block the active site  
+:::note Substrate Concentration  
+higher concentration of substrate means that the enzymes are more likely to collide with substrate. Increase rate of reaction, to a point. Once all of the enzyme has substrate in active site, reaction cannot continue further  
+:::
+:::note Inhibitor Concentration  
+higher concentration of competitive inhibitors will cause reaction to slow, as more competitive inhibitor blocks active sites Non-competitive inhibitors will have an impact, however it is not based on concentration as they do not block the active site  
+:::
 - pH – outside of the enzymes optimum pH, the active site denatures quickly. This prevents the reaction from being catalysed  
 - Temperature – below the optimum temperature, the reaction slows, as less energy to cause collisions  
 :::note Key Point  
@@ -144,9 +148,29 @@ Above optimum temp – reaction stops – enzymes denature
 - This is repeated, eventually forming DNA only containing 14N  
 - The solution can be centrifuged, DNA containing different Nitrogen isotopes to be identified  
 
-<img src="https://user-images.githubusercontent.com/74820599/111035807-03a09500-8414-11eb-8d8c-3a82a53fad8b.png" alt="lock and key diagram" width="25%" /> [^4]
+<img src="https://user-images.githubusercontent.com/74820599/111035807-03a09500-8414-11eb-8d8c-3a82a53fad8b.png" alt="lock and key diagram" width="25%" />[^4]
 
-
+## ATP – Adenosine Triphosphate
+- Used to transfer energy within cells  
+- Made of: Adenine, 3× Phosphate groups, Ribose sugar  
+- 𝐴𝑇𝑃 + 𝐻2𝑂 → 𝐴𝐷𝑃 + 𝑃𝑖 – condensation on ATP, forming ADP and a phosphate group; breaking the bond releases energy  
+- Low activation energy, so it is easy to release energy  
+:::note ATPase  
+enzyme catalysing hydrolysis of ATP (breaks down ATP into ADP)  
+:::
+- Photophosphorylation  
+	o Photosynthesis: Plants only, Using light to synthesise ADP → ATP  
+- Oxidative Phosphorylation  
+	o Using respiration to synthesise ADP → ATP; Plants and Animals  
+- Substrate-level Phosphorylation  
+	o When phosphate groups are transferred from donors; plants and animals  
+### Uses of ATP  
+- Metabolic Processes – provides energy to build up molecules from subunits  
+- Movement – energy is required for muscular contraction  
+- Active Transport – movement of molecules against a concentration gradient  
+- Secretion – ATP is needed to form lysosomes to encase cell products  
+- Activation of Molecules – inorganic phosphate released in hydrolysis of ATP can phosphorylate other molecules  
+![image](https://user-images.githubusercontent.com/74820599/111036270-58450f80-8416-11eb-844d-170dd213e625.png)[^5]
 
 
 
@@ -154,3 +178,4 @@ Above optimum temp – reaction stops – enzymes denature
 [^2]: By domdomegg - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=46474063
 [^3]: By TimVickers, vectorized by Fvasconcellos - Provided by TimVickers, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1267900
 [^4]: By Genomics Education Programme - Semi conservative replication of DNA, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50542923
+[^5]: By Jynto - Own work  This image was created with Discovery Studio Visualizer., CC0, https://commons.wikimedia.org/w/index.php?curid=16282717
