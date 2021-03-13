@@ -1,7 +1,7 @@
 module.exports = {
   title: 'A Level Biology: iodli',
   tagline: 'A Level Biology',
-  url: 'https://bio.iod.li',
+  url: 'https://albio.iod.li',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'iodli', // Usually your GitHub org/user name.
