@@ -39,7 +39,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) == Built with Docusaurus.`,
+      copyright: `This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License == Built with Docusaurus.`,
     },
   },
   presets: [
@@ -50,13 +50,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/sgdwn/docusaurus',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
