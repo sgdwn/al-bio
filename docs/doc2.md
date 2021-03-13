@@ -66,15 +66,15 @@ Break down larger molecules, using water
 	o Unsaturated  
 :::tip Key Point
 **Monounsaturated**
-	1 pair of carbon atoms have a double bond
-	removes 2 hydrogens, causing a kink in the chain
+	1 pair of carbon atoms have a double bond  
+	removes 2 hydrogens, causing a kink in the chain  
 :::  
 :::tip Key Point
 **Polyunsaturated**
-	more than 1 pair of carbon atoms have a double bond
-	removes more than 2 hydrogens
-	causes many kinks in the chain
-	have less energy than unsaturated fatty acids
+	more than 1 pair of carbon atoms have a double bond  
+	removes more than 2 hydrogens  
+	causes many kinks in the chain  
+	have less energy than unsaturated fatty acids  
 :::  
   
 ## Proteins  
