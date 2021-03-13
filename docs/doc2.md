@@ -4,10 +4,10 @@ title: Biological Molecules
 ---
 
 ## Monomers and Polymers  
-:::tip Definition
+:::note Definition
 Monomer -- the smaller subunits making up larger polymers
 :::  
-:::tip Definition
+:::note Definition
 Polymer -- molecules made from a large number of monomers joined together
 :::  
 :::info
@@ -17,7 +17,7 @@ Condensation Reactions
 - Amino acids → Polypeptides: peptide bonds  
 - Glycerol + fatty acids → Triglycerides: ester bonds  
 :::  
-:::tip Definition
+:::note Definition
 Condensation Reaction  
 Break down larger molecules, using water
 :::  
