@@ -1,17 +1,9 @@
-# Docusaurus Example
+![iodli 'i' logo](https://user-images.githubusercontent.com/74820599/111067101-6c424d00-84ba-11eb-8ce6-4a42765a87d5.png)
+# A Level Biology: iodli
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed with Vercel and zero configuration.
+A guide to the content in the A Level Biology course
 
-## Deploy Your Own
+Make a pull request for an edit to be applied
 
-Deploy your own Docusaurus project with Vercel.
+Visit the website at: https://albio.iod.li/doc
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/docusaurus-2)
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-$ npx @docusaurus/init@next init my-website classic
-```
